@@ -1,7 +1,3 @@
-Here’s a simple `README.md` file for running your PostgreSQL setup script.
-
----
-
 # PostgreSQL Setup Script
 
 This script automates the process of setting up a PostgreSQL database, creating a user, and generating a `.env` file containing the database connection information. 
